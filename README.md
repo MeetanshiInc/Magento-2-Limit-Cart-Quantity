@@ -15,6 +15,6 @@ Improve sales performance, stock management and minimize the shipping costs with
 
 * The module enables an error message in the frontend when the cart is not qualified for successful checkout.
 
-For more information, visit [https://meetanshi.com/magento-2-limit-cart-quantity.html](https://meetanshi.com/magento-2-limit-cart-quantity.html)
+For more information, visit ***[https://meetanshi.com/magento-2-limit-cart-quantity.html](https://meetanshi.com/magento-2-limit-cart-quantity.html)***
 
 
