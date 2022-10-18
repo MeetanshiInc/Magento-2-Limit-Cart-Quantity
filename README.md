@@ -7,7 +7,7 @@ The Magento 2 Limit Cart Quantity allows admin to restrict the total number of i
 
 Improve sales performance, stock management and minimize the shipping costs with Magento 2 Limit Cart Quantity extension.
 
-**Benefits of Magento Magento 2 Limit Cart Quantity extension:**
+## Benefits of Magento Magento 2 Limit Cart Quantity extension:
 
 * Set a limitation for the total number of products in the shopping cart.
 
