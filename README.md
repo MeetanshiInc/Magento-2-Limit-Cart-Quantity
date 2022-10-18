@@ -1,4 +1,4 @@
-
+## Magento 2 Limit Cart Quantity]
 
 The default Magento 2 allows setting minimum cart quantity. But to set a minimum and maximum range for cart quantity based on customer groups, check Meetanshi's ***[Magento 2 Limit Cart Quantity](https://meetanshi.com/magento-2-limit-cart-quantity.html)*** extension!
 
